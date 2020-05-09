@@ -10,7 +10,7 @@
     "test": {
       "username": "root",
       "password": "root",
-      "database": "database_test",
+      "database": "crusine_db",
       "host": "127.0.0.1",
       "dialect": "mysql",
       "operatorsAliases": 0
@@ -18,7 +18,7 @@
     "production": {
       "username": "root",
       "password": "root",
-      "database": "database_production",
+      "database": "crusine_db",
       "host": "127.0.0.1",
       "dialect": "mysql",
       "operatorsAliases": 0
